@@ -13,7 +13,7 @@ The goal was to create a cleaner and more user-friendly version of DT.no by adju
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 
 ### Browser Extension
 - Chrome Extension API
